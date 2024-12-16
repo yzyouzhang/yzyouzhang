@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I'm a final-year Ph.D. candidate at [University of Rochester](https://www.rochester.edu/), where I'm part of the [Audio Information Research (AIR) Lab](https://labsites.rochester.edu/air/index.html).
+- 🤔 My research focuses on developing intelligent algorithms to enhance human auditory experiences by making them more immersive and secure. This includes topics such as **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**.
+- 📫 **Personal Website**: [https://yzyouzhang.com](https://yzyouzhang.com) — Explore my work and thoughts in more detail! Feel free to connect!
+
 <!--
 **yzyouzhang/yzyouzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
